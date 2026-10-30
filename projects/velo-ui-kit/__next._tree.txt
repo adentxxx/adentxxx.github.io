@@ -1,0 +1,9 @@
+:HL["/_next/static/chunks/0psx93t22xa8v.css","style"]
+:HL["/_next/static/media/10996a8bd7ce696d-s.p.1-b1ip81yxsas.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/6348312372d59342-s.p.168egtx_4ynfv.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/b4c58896969e012e-s.p.1zspcg2mka_ob.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/cf6a843f01418385-s.p.4495q05yg1hqf.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+3:[["children",{"s":"__PAGE__","h":160}]]
+2:[["children",{"s":{"n":"slug","t":"d","k":"velo-ui-kit","s":[]},"h":96,"c":"$Q3"}]]
+1:[["children",{"s":"projects","h":64,"c":"$Q2"}]]
+0:{"b":"_1ERAp1vR-p2MTcbdE7-L","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
