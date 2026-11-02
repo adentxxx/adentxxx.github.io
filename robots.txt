@@ -1,0 +1,7 @@
+User-Agent: *
+Allow: /
+Disallow: /admin
+Disallow: /api/
+
+Host: hereisalex.art
+Sitemap: https://hereisalex.art/sitemap.xml
