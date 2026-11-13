@@ -1,30 +1,79 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
 <url>
 <loc>https://hereisalex.art/</loc>
+<xhtml:link rel="alternate" hreflang="ru" href="https://hereisalex.art/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://hereisalex.art/en/" />
+<changefreq>weekly</changefreq>
+<priority>1</priority>
+</url>
+<url>
+<loc>https://hereisalex.art/en/</loc>
+<xhtml:link rel="alternate" hreflang="ru" href="https://hereisalex.art/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://hereisalex.art/en/" />
 <changefreq>weekly</changefreq>
 <priority>1</priority>
 </url>
 <url>
 <loc>https://hereisalex.art/projects/telegram-nodes/</loc>
+<xhtml:link rel="alternate" hreflang="ru" href="https://hereisalex.art/projects/telegram-nodes/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://hereisalex.art/en/projects/telegram-nodes/" />
+<lastmod>2025-11-01T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://hereisalex.art/en/projects/telegram-nodes/</loc>
+<xhtml:link rel="alternate" hreflang="ru" href="https://hereisalex.art/projects/telegram-nodes/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://hereisalex.art/en/projects/telegram-nodes/" />
 <lastmod>2025-11-01T00:00:00.000Z</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.8</priority>
 </url>
 <url>
 <loc>https://hereisalex.art/projects/spendix/</loc>
+<xhtml:link rel="alternate" hreflang="ru" href="https://hereisalex.art/projects/spendix/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://hereisalex.art/en/projects/spendix/" />
+<lastmod>2025-06-01T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://hereisalex.art/en/projects/spendix/</loc>
+<xhtml:link rel="alternate" hreflang="ru" href="https://hereisalex.art/projects/spendix/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://hereisalex.art/en/projects/spendix/" />
 <lastmod>2025-06-01T00:00:00.000Z</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.8</priority>
 </url>
 <url>
 <loc>https://hereisalex.art/projects/peyro/</loc>
+<xhtml:link rel="alternate" hreflang="ru" href="https://hereisalex.art/projects/peyro/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://hereisalex.art/en/projects/peyro/" />
+<lastmod>2025-04-01T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://hereisalex.art/en/projects/peyro/</loc>
+<xhtml:link rel="alternate" hreflang="ru" href="https://hereisalex.art/projects/peyro/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://hereisalex.art/en/projects/peyro/" />
 <lastmod>2025-04-01T00:00:00.000Z</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.8</priority>
 </url>
 <url>
 <loc>https://hereisalex.art/projects/velo-ui-kit/</loc>
+<xhtml:link rel="alternate" hreflang="ru" href="https://hereisalex.art/projects/velo-ui-kit/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://hereisalex.art/en/projects/velo-ui-kit/" />
+<lastmod>2024-04-01T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://hereisalex.art/en/projects/velo-ui-kit/</loc>
+<xhtml:link rel="alternate" hreflang="ru" href="https://hereisalex.art/projects/velo-ui-kit/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://hereisalex.art/en/projects/velo-ui-kit/" />
 <lastmod>2024-04-01T00:00:00.000Z</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.8</priority>
