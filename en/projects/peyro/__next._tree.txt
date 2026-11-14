@@ -1,6 +1,6 @@
-:HL["/_next/static/css/c14996e139f9525a.css","style"]
+:HL["/_next/static/css/550f57c30052feb5.css","style"]
 4:[["children",{"s":"__PAGE__","h":160}]]
 3:[["children",{"s":{"n":"slug","t":"d","k":"peyro","s":[]},"h":96,"c":"$Q4"}]]
 2:[["children",{"s":"projects","h":96,"c":"$Q3"}]]
 1:[["children",{"s":"en","h":64,"c":"$Q2"}]]
-0:{"b":"XYwF3vGC6gTvZkf_86c9w","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
+0:{"b":"vdyZzwPY0AYqtHllNUrDd","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
